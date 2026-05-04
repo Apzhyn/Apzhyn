@@ -10,4 +10,4 @@ My name's Apzhyn and i'm evil.....,,,
 
 ## Silly stats
 
-![Apzhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=apzhyn&show_icons=true)
+![Apzhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apzhyn&show_icons=true)
