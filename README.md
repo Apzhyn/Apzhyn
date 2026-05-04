@@ -8,6 +8,5 @@ My name's Apzhyn and i'm evil.....,,,
 - Game dev
 - Low level programming
 
-## Silly stats
-
-![Apzhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apzhyn&show_icons=true)
+## Silly quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates)
