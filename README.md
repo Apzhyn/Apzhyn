@@ -1,3 +1,6 @@
+# SLOWLY MOVING TO CODEBERG SINCE GITHUB SUCKS
+https://codeberg.org/Apzhyn
+
 ## Hi there 👋
 
 My name's Apzhyn and i'm evil.....,,,
